@@ -1,0 +1,77 @@
+.navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+
+
+
+.nav-link {
+  color: #fff;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.container-fluid {
+  text-align: center;
+  overflow: hidden;
+  padding-top: calc(7rem + 72px);
+  padding-bottom: 7rem;
+  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+  position: relative;
+}
+
+.learn-button {
+  margin: 5% 3% 5% 0;
+}
+
+.font-size {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#footer {
+  text-align: center;
+  background: black;
+  position: relative;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  color: #fff;
+  width: 100%;
+}
+
+.footer-icon {
+  margin: 20px 10px;
+}
+
+#testimonials {
+  position: relative;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+
+}
+
+
+img {
+  width: 80%;
+  border-radius: 100%;
+}
+
+.row {
+  padding: 5% 0;
+}
+@media (max-width:1028px) {
+  .container{
+    text-align: center;
+
+  }
+
+}
